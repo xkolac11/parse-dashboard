@@ -1,10 +1,15 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://parse-server-reinto.herokuapp.com/parse",
+    "appId": "30012017",
+    "masterKey": "Reinto2017",
+    "appName": "Reitno Parse",
     "iconName": ""
   }],
-  "iconsFolder": "icons"
+  "users" : [
+	{
+		"user" : "kolacekp",
+		"pass" : "Kolo1992"
+	}
+  ]
 }
